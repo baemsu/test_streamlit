@@ -7,3 +7,4 @@ ply==3.11
 ptyprocess
 seaborn
 streamlit==1.5.0
+scikit-learn
